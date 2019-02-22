@@ -113,13 +113,14 @@ Talash: A search engine for Hindi language is used for finding Hindi books based
 <ul>
   <li> Tkinter </li>
   <li> python 3.6 </li>
-
+</ul>
 <hr>
 
 <h1> Instructions to run: </h1>
 <ol>
   <li> Run the file talash_gui.py and the GUI screen will appear.</li>
   <li> Follow the instructions and query.</li>
+ </ol>
   <hr>
   
 
@@ -130,3 +131,4 @@ Talash: A search engine for Hindi language is used for finding Hindi books based
   <li> पूरा जीवन झुंझलाते</li>
   <li> दैनिक कार्यों </li>
   <li> शुभ रात्री</li>
+ </ol>
